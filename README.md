@@ -64,4 +64,11 @@ Autism Spectrum Disorder (ASD) is a developmental disorder that affects communic
 
 ## 📂 Project Structure
 
-<pre> ## 📂 Project Structure ```text Autism-Prediction/ ├── autism_prediction T4.ipynb # Final model notebook ├── autism_prediction.ipynb # Initial notebook version (if included) ├── train.csv # Dataset ├── best_model.pkl # Trained model ├── encoder.pkl # Encoder for categorical values ├── requirements.txt # Project dependencies └── README.md # Project overview ``` </pre>
+<pre> ## 📂 Project Structure ```text Autism-Prediction/
+  ├── autism_prediction T4.ipynb # Final model notebook
+  ├── autism_prediction.ipynb # Initial notebook version (if included)
+  ├── train.csv # Dataset
+  ├── best_model.pkl # Trained model
+  ├── encoder.pkl # Encoder for categorical values
+  ├── requirements.txt # Project dependencies
+  └── README.md # Project overview ``` </pre>
