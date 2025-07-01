@@ -63,7 +63,6 @@ Autism Spectrum Disorder (ASD) is a developmental disorder that affects communic
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```
 Autism-Prediction/
