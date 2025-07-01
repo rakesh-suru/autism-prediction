@@ -72,6 +72,7 @@ Autism-Prediction/
 ├── best_model.pkl               # Trained model
 ├── encoder.pkl                  # Encoder for categorical values
 ├── requirements.txt             # Dependencies file
+├── LICENSE                      # license file
 └── README.md                    # Project overview
 ```
 
