@@ -82,17 +82,22 @@ Autism-Prediction/
 
 ### 1. Clone the repository
 
+```
 git clone https://github.com/yourusername/Autism-Prediction.git
 cd Autism-Prediction
+```
 
 ### 2. Install dependencies
 
+```
 pip install -r requirements.txt
+```
 
 ### 3. Run the notebook
 
+```
 jupyter notebook "autism_prediction T4.ipynb"
-
+```
 
 ## 🤝 Contributing
 Contributions, suggestions, and improvements are welcome!
