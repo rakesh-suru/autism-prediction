@@ -82,27 +82,26 @@ Autism-Prediction/
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/yourusername/Autism-Prediction.git
 cd Autism-Prediction
 
-2. Install dependencies
+### 2. Install dependencies
 
 pip install -r requirements.txt
 
-3. Run the notebook
+### 3. Run the notebook
 
 jupyter notebook "autism_prediction T4.ipynb"
 
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, suggestions, and improvements are welcome!
 Open an issue or submit a pull request.
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Autism screening data sources
 
 Scikit-learn and open-source ML libraries
